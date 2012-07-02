@@ -1,0 +1,33 @@
+{
+  "name": "map-carousel",
+  "title": "Map Carousel",
+  "description": "A carousel for featuring locations on a map",
+  "version": "0.1.0",
+  "homepage": "https://github.com/dmazza/map-carousel",
+  "author": {
+    "name": "David Mazza",
+    "email": "dmazza90@gmail.com",
+    "url": "http://davidmazza.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dmazza/map-carousel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dmazza/map-carousel/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/dmazza/map-carousel/blob/master/LICENSE-MIT"
+    },
+    {
+      "type": "GPL",
+      "url": "https://github.com/dmazza/map-carousel/blob/master/LICENSE-GPL"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">= 1.6"
+  },
+  "keywords": []
+}
